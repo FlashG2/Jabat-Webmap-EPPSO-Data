@@ -1,2 +1,2 @@
-# Jabat-Webmap-EPPSO-Data
+# Webmap_Jabat_Island
 Household Coordinates for Jabat Island RMI
